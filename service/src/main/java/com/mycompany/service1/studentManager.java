@@ -18,6 +18,7 @@ import org.springframework.stereotype.Component;
  *
  * @author celos
  */
+//Hello World
 @Component
 public class studentManager {
   
